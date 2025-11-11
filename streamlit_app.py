@@ -74,6 +74,17 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
       "images": ["https://kfcapi.inicis.com/kfcs_api_img/KFCS/goods/DL_2177082_20250403133606385.png"],
       "videos": ["https://www.youtube.com/watch?v=SfOogcQIFBc"]
      },
+
+ labels[1]: {
+     "texts": ["파스의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
+      "images": ["https://kfcapi.inicis.com/kfcs_api_img/KFCS/goods/DL_2177082_20250403133606385.png"],
+      "videos": ["https://www.youtube.com/watch?v=SfOogcQIFBc"]
+     },
+ labels[0]: {
+     "texts": ["파스의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
+      "images": ["https://kfcapi.inicis.com/kfcs_api_img/KFCS/goods/DL_2177082_20250403133606385.png"],
+      "videos": ["https://www.youtube.com/watch?v=SfOogcQIFBc"]
+     },
 }
 
 # ======================
